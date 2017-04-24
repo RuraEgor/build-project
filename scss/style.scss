@@ -1,0 +1,12 @@
+@import "includes/settings";
+
+.comtent-nav {
+  color: $blue;
+  background: darken($blue, 17%);
+}
+
+.border {
+  padding: $margin / 12;
+  margin: $margin + 121;
+  border-color: $blue;
+}

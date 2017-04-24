@@ -1,5 +1,14 @@
 .wrapper {
-    font-size: 14px;
-    color: #000000;
+    font-size: 170px;
+    color: #222;
     line-height: 1.4;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    background-image: url('example.png');
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
